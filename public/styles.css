@@ -59,9 +59,17 @@ th {
 }
 
 a {
-  color: #2980b9;
-  text-decoration: none;
-  margin-right: 10px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+a:hover {
+  background-color: #2980b9;
 }
 
 form.inline {
