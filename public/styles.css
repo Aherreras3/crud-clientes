@@ -25,6 +25,10 @@ input, select {
   display: block;
 }
 
+button.eliminar {
+   background-color: #ff0606;
+}
+
 button {
   background-color: #3498db;
   color: white;
@@ -37,6 +41,10 @@ button {
 
 button:hover {
   background-color: #2980b9;
+}
+
+button.eliminar {
+   background-color: #f04040;
 }
 
 table {
